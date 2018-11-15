@@ -1,0 +1,1 @@
+D:\Kotlin Koans\Introduction\SAM conversions\test\tests.kt
